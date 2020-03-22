@@ -26,5 +26,5 @@ test {
 }
 
 bootJar {
-    mainClassName = 'com.producthunt.CoronaApp'
+    mainClassName = 'com.producthunt.corona.CoronaApp'
 }
